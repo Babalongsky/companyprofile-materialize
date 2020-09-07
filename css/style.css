@@ -1,0 +1,39 @@
+.slider h3,
+.slide h5,
+.clients h3 {
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+
+.parallax-container {
+    height: 10%;
+}
+
+.parallax img {
+    /* filter: grayscale(1); */
+    opacity: 0.3 !important;
+}
+
+.clients img {
+    max-width: 150px;
+    filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.8));
+}
+
+.contact {
+    /* padding-bottom: 210px; */
+}
+
+section,
+footer {
+    padding: 2px 0;
+}
+
+footer .i {
+    font-style: italic;
+    opacity: 0.6;
+    text-decoration: underline;
+}
+
+footer p {
+    line-height: 10px;
+}
